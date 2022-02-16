@@ -1,6 +1,6 @@
 # [Tutorial] LSTM을 이용한 단시간 하천 수위 예측 
 
-## 1. 바로실습해보기 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyunholee26/Tutorial-Short-time-river-level-prediction-using-LSTM/HEAD)
+## 1. 바로실습해보기 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wateround22/Tutorial-Short-time-river-level-prediction-using-LSTM/HEAD)
   - 바인더 아이콘을 클릭하면, 주피터 노트북 환경에서 코드를 실습할 수 있습니다.
   - 바인더 환경구성에 약 5분이 소요되며, 본 실습코드의 경우 바인더보다는 GPU환경에서 실습하기를 권장합니다.
 
